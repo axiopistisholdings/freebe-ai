@@ -1,6 +1,14 @@
 <div align="center">
   <img src="logo.svg" alt="Freebe AI Logo" width="400"/></div>
 
+<div align="center">
+
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.freebeai.com)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)
+
+</div>
+
 ## Table of Contents
 
 - [Freebe AI](#freebe-ai)
