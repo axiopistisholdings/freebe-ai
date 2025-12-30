@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1200" fill="#FFFFFF"/>
+  
+  <!-- Decorative gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E0F2FE;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#DBEAFE;stop-opacity:0.5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Logo Icon (centered, proper sizing) -->
+  <g transform="translate(600, 450) scale(1.5) translate(-100, -100)">
+    <path 
+      d="M 100 10 L 171.35 42.5 L 188.97 115 L 150 175 L 100 195 L 50 175 L 11.03 115 L 28.65 42.5 Z" 
+      stroke="#2563EB" 
+      stroke-width="8" 
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+    <path 
+      d="M 100 30 L 158.45 55 L 172.18 115 L 142 160 L 100 175 L 58 160 L 27.82 115 L 41.55 55 Z" 
+      stroke="#2563EB" 
+      stroke-width="4" 
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+      opacity="0.5"
+    />
+  </g>
+  
+  <!-- Freebe Text -->
+  <text x="600" y="870" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="90" font-weight="700" fill="#2563EB" text-anchor="middle" letter-spacing="-2">Freebe</text>
+</svg>
