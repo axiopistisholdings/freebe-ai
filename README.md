@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="logo.svg" alt="Freebe AI Logo" width="200"/>
-</div>
+  <img src="logo.svg" alt="Freebe AI Logo" width="400"/></div>
+
+## Table of Contents
+
+- [Freebe AI](#freebe-ai)
+- [Freebe Chat](#freebe-chat)
+- [What This Repository Is (and Is Not)](#what-this-repository-is-and-is-not)
+- [Partnerships](#partnerships)
+- [Ownership & Contact](#ownership--contact)
+
+---
 
 # Freebe AI
 
