@@ -70,4 +70,18 @@ For general questions or support:
 For legal or compliance matters:  
 **legal@axiopistisholdings.com**
 
+Website: [https://www.freebeai.com](https://www.freebeai.com/)
+
+---
+
+## License
+
+This repository and all of its contents are proprietary and confidential.
+
+**Copyright © 2025 Axiopistis Holdings LC. All rights reserved.**
+
+Unauthorized copying, distribution, modification, or use of this repository or any of its contents is strictly prohibited. See the [LICENSE](LICENSE) file for complete terms and conditions.
+
+The "Freebe AI" name, logo, and all associated branding are trademarks of Axiopistis Holdings LC.
+
 Website: https://www.freebeai.com
