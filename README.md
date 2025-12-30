@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.svg" alt="Freebe AI Logo" width="200"/>
+</div>
+
 # Freebe AI
 
 Freebe is an independent AI project focused on building practical, accessible AI systems and tools.
